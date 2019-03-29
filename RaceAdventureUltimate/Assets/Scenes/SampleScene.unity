@@ -116,6 +116,9 @@ NavMeshSettings:
 --- !u!1 &850730749
 =======
 --- !u!1 &149334269
+<<<<<<< HEAD
+>>>>>>> parent of f02422b... Merge branch 'master' of https://github.com/Mikk600e/RaceAdventureUlltimate
+=======
 >>>>>>> parent of f02422b... Merge branch 'master' of https://github.com/Mikk600e/RaceAdventureUlltimate
 GameObject:
   m_ObjectHideFlags: 0
@@ -201,6 +204,9 @@ GameObject:
   - component: {fileID: 712320743}
   - component: {fileID: 712320742}
   - component: {fileID: 712320741}
+<<<<<<< HEAD
+>>>>>>> parent of f02422b... Merge branch 'master' of https://github.com/Mikk600e/RaceAdventureUlltimate
+=======
 >>>>>>> parent of f02422b... Merge branch 'master' of https://github.com/Mikk600e/RaceAdventureUlltimate
   m_Layer: 0
   m_Name: Main Camera
@@ -213,6 +219,9 @@ GameObject:
 --- !u!81 &850730750
 =======
 --- !u!81 &712320741
+<<<<<<< HEAD
+>>>>>>> parent of f02422b... Merge branch 'master' of https://github.com/Mikk600e/RaceAdventureUlltimate
+=======
 >>>>>>> parent of f02422b... Merge branch 'master' of https://github.com/Mikk600e/RaceAdventureUlltimate
 AudioListener:
   m_ObjectHideFlags: 0
@@ -225,6 +234,9 @@ AudioListener:
 --- !u!20 &850730751
 =======
 --- !u!20 &712320742
+<<<<<<< HEAD
+>>>>>>> parent of f02422b... Merge branch 'master' of https://github.com/Mikk600e/RaceAdventureUlltimate
+=======
 >>>>>>> parent of f02422b... Merge branch 'master' of https://github.com/Mikk600e/RaceAdventureUlltimate
 Camera:
   m_ObjectHideFlags: 0
@@ -235,6 +247,9 @@ Camera:
   m_GameObject: {fileID: 850730749}
 =======
   m_GameObject: {fileID: 712320740}
+<<<<<<< HEAD
+>>>>>>> parent of f02422b... Merge branch 'master' of https://github.com/Mikk600e/RaceAdventureUlltimate
+=======
 >>>>>>> parent of f02422b... Merge branch 'master' of https://github.com/Mikk600e/RaceAdventureUlltimate
   m_Enabled: 1
   serializedVersion: 2
@@ -275,6 +290,9 @@ Camera:
 --- !u!4 &850730752
 =======
 --- !u!4 &712320743
+<<<<<<< HEAD
+>>>>>>> parent of f02422b... Merge branch 'master' of https://github.com/Mikk600e/RaceAdventureUlltimate
+=======
 >>>>>>> parent of f02422b... Merge branch 'master' of https://github.com/Mikk600e/RaceAdventureUlltimate
 Transform:
   m_ObjectHideFlags: 0
@@ -285,6 +303,9 @@ Transform:
   m_GameObject: {fileID: 850730749}
 =======
   m_GameObject: {fileID: 712320740}
+<<<<<<< HEAD
+>>>>>>> parent of f02422b... Merge branch 'master' of https://github.com/Mikk600e/RaceAdventureUlltimate
+=======
 >>>>>>> parent of f02422b... Merge branch 'master' of https://github.com/Mikk600e/RaceAdventureUlltimate
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: -10}
